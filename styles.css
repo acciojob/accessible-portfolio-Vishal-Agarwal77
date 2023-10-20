@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+*{
+	margin:0;	
+	padding:0;
+}
+nav>ul{
+	display:flex;
+  	align-items: center;
+	gap:30px;
+}
+nav img{
+	height:50px;
+	width:120px;
+}
+h2{
+	justify-content:center;
+}
